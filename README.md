@@ -20,6 +20,11 @@ This application demonstrates a **Retrieval Augmented Generation (RAG)** system 
 2. **Install dependencies**:
 
    ```bash
+    pnpm init
+
+    // Modify the package.json file to include the following type definition:
+    "type": "module",
+
    pnpm install
    ```
 
