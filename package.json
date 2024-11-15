@@ -16,6 +16,7 @@
     "@langchain/ollama": "^0.1.2",
     "@langchain/openai": "^0.3.13",
     "cheerio": "^1.0.0",
+    "combine_documents": "link:langchain/chains/combine_documents",
     "dotenv": "^16.4.5",
     "langchain": "^0.3.5"
   }
